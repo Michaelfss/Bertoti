@@ -11,7 +11,7 @@
  ## caso de uso 
  
   ### Resequisito Funcional
- ![RequisitoFuncional](https://github.com/Michaelfss/Bertoti/commit/967cd74cbffa0f53a1546e1b91abafec9db62f89)
+ ![Requisitofuncional](https://github.com/Michaelfss/Bertoti/commit/967cd74cbffa0f53a1546e1b91abafec9db62f89)
  
  
  ### Resito não funcionais 10 euristicas
