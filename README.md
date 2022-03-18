@@ -1,12 +1,20 @@
+
+#RA e meu nome
 # Eng .de Software
  Destinado para Atividade 
  
 
  
- ### Resequisito Funcional
+ 
+
+ 
+ ## caso de uso 
+ 
+  ### Resequisito Funcional
+ ![RequisitoFuncional](Eng-.de-Software/to/Requisitofuncional.jpg)
  
  
- ### Resito não funcionais
+ ### Resito não funcionais 10 euristicas
  
 ![Capatura de tela 02](https://github.com/Michaelfss/Eng-.de-Software/blob/main/Captura%20de%20tela%2002.png)
 
