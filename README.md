@@ -36,6 +36,10 @@ Como professor eu preciso criar reuniões,selecionando a equipeda minha matéria
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 ### ciclo de vida 
+=======
+  ### ciclo de vida 
+>>>>>>> 5c8ead2cc31a0eea175b0fe2ea08f5fcde14d429
 
 >>>>>>> 134a9fd2521aa390f44d357d8bf68711d56aece7
