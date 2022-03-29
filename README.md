@@ -14,13 +14,13 @@
  
 
  
- ## caso de uso 
+## caso de uso
  
-  ### Resequisito Funcional
+### Resequisito Funcional
  ![Requisitofuncional](Requisitofuncional.jpg)
  
  
- ### Resito não funcionais 10 euristicas
+### Resito nao funcionais 10 euristicas
 >>>>>>> 134a9fd2521aa390f44d357d8bf68711d56aece7
  
 ![Capatura de tela 02](https://github.com/Michaelfss/Eng-.de-Software/blob/main/Captura%20de%20tela%2002.png)
@@ -36,6 +36,6 @@ Como professor eu preciso criar reuniões,selecionando a equipeda minha matéria
 <<<<<<< HEAD
 =======
 
-###ciclo de vida 
+### ciclo de vida 
 
 >>>>>>> 134a9fd2521aa390f44d357d8bf68711d56aece7
