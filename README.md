@@ -27,5 +27,5 @@ Como aluno eu preciso daruma atuzalização nas minhas atividades,selecionado a 
 Como professor eu preciso criar reuniões,selecionando a equipeda minha matéria, e selecionando iniciar reunião.
 
 
-###ciclo de vida 
+  ###ciclo de vida 
 
