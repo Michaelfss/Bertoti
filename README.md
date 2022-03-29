@@ -1,12 +1,27 @@
+
+#RA e meu nome
 # Eng .de Software
  Destinado para Atividade 
  
 
  
+<<<<<<< HEAD
  ### Resequisito Funcional
  
  
  ### Resito não funcionais
+=======
+ 
+
+ 
+ ## caso de uso 
+ 
+  ### Resequisito Funcional
+ ![Requisitofuncional](Requisitofuncional.jpg)
+ 
+ 
+ ### Resito não funcionais 10 euristicas
+>>>>>>> 134a9fd2521aa390f44d357d8bf68711d56aece7
  
 ![Capatura de tela 02](https://github.com/Michaelfss/Eng-.de-Software/blob/main/Captura%20de%20tela%2002.png)
 
@@ -18,3 +33,9 @@ Como aluno eu preciso daruma atuzalização nas minhas atividades,selecionado a 
 
 Como professor eu preciso criar reuniões,selecionando a equipeda minha matéria, e selecionando iniciar reunião.
 
+<<<<<<< HEAD
+=======
+
+###ciclo de vida 
+
+>>>>>>> 134a9fd2521aa390f44d357d8bf68711d56aece7
